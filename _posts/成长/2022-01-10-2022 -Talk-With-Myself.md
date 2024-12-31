@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2022，这个世界会好吗
-categories: 总结
+categories: 年度总结
 description: 总结
 keywords: 总结
 typora-root-url: ../../../HeroesZheng.github.io/

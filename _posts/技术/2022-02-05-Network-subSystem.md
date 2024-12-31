@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Network I/O 初探
-categories: [基础]
+categories: [技术]
 description: some word here
 keywords: IO, Java, 磁盘, 文件系统
 

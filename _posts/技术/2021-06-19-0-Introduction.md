@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Distributed Systems概览
-categories: [分布式]
+categories: [技术]
 date: 2021-06-25
 description: some word here
 keywords: 数据库, 日志, 事务, crash safe,InnnoDB

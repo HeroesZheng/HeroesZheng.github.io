@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mysql InnoDB Storage Engine
-categories: [数据库]
+categories: [技术]
 description: some word here
 keywords: 数据库, 日志, 事务, crash safe,InnoDB
 

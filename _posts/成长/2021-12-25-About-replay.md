@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于复盘
-categories: 总结
+categories: 成长
 description: 总结
 keywords: 复盘
 typora-root-url: ../../../HeroesZheng.github.io/

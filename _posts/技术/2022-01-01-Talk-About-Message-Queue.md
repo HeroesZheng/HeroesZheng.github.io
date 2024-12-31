@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  当我们聊消息队列，我们在聊什么
-categories: 消息队列
+categories: [技术]
 description: 消息队列
 keywords: pulsar, message queue, stream, log
 typora-root-url: ../../../HeroesZheng.github.io/
