@@ -115,6 +115,11 @@ collections:
         output: true
         permalink: /wiki/:path/
 
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
+comments_provider: gitalk
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
   owner: HeroesZheng
