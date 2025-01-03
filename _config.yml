@@ -34,7 +34,7 @@ components:
     # 文章字数统计
     word_count:
         enabled: true
-   
+
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -46,8 +46,8 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: DempeZheng
-organization: 
-organization_url: 
+organization:
+organization_url:
 github_username: heroeszheng
 location: Guangzhou, China
 email: yinweiniyu@gmail.com
@@ -115,7 +115,12 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-
+# gitalk 配置参考：https://github.com/gitalk/gitalk#install
+gitalk:
+  owner: HeroesZheng
+  repo: blog-comments
+  clientID: Ov23li6FmCJDmAIlZmNK
+  clientSecret: 81bd012195b582aa2cabb7d2d472dd173353beef
 
 # ---------------- #
 #      Google      #
