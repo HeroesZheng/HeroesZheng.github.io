@@ -4,7 +4,6 @@ title: 关于管理的一些思考
 categories: 成长
 description: 总结
 keywords: 管理
-typora-root-url: ../../../HeroesZheng.github.io/
 
 ---
 

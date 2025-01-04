@@ -12,7 +12,7 @@ keywords: IO, Java, 磁盘, 文件系统
 
 ![](https://www.thomas-krenn.com/de/wikiDE/images/e/e0/Linux-storage-stack-diagram_v4.10.png)
 
-![](/Users/dolphin/HeroesZheng.github.io/images/2022-03-03-16-14-26-image.png)
+![](/images/2022-03-03-16-14-26-image.png)
 
 ![](https://i.stack.imgur.com/kiP8n.png)
 

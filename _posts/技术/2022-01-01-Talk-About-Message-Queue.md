@@ -247,7 +247,7 @@ Writes 和 tailing reads 在意的是延时 (latency)，因为它关系到一个
 
 #### 工程投影：分布式日志系统Bookeeper
 
-![bk1](https://heroeszheng.github.io/images/bk1.png)
+![bk1](https://dolphin7.xyz/images/bk1.png)
 
 ### 高级功能
 
