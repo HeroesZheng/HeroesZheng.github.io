@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024，年度总结
+title: 2024年度总结:允许发生，无限可能
 categories: 年度总结
 description: 年度总结
 keywords: 2024年度总结,技术，投资
