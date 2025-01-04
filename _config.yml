@@ -35,7 +35,7 @@ components:
     word_count:
         enabled: true
     qrcode:
-      enabled: true
+      enabled: falsess
       image_alt: dolphin07
 
 # 压缩页面内容
