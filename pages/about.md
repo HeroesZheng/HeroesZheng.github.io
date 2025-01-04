@@ -8,7 +8,6 @@ menu: 关于
 permalink: /about/
 ---
 
-朝霞晚风
 
 ## 联系
 

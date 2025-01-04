@@ -34,6 +34,9 @@ components:
     # 文章字数统计
     word_count:
         enabled: true
+    qrcode:
+      enabled: true
+      image_alt: dolphin07
 
 # 压缩页面内容
 compress_html:
