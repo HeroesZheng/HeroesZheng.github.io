@@ -1,0 +1,39 @@
+name: Build and Deploy Jekyll site
+
+on:
+  push:
+    branches:
+      - main  # 监听 main 分支的推送事件
+  pull_request:
+    branches:
+      - main  # 监听 main 分支的拉取请求事件
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3  # 获取项目源代码
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1  # 安装 Ruby
+        with:
+          ruby-version: 3.3.5  # 你可以根据需要调整 Ruby 版本
+
+      - name: Install dependencies
+        run: |
+          gem install bundler  # 安装 bundler
+          bundle install  # 安装 Jekyll 及其插件
+
+      - name: Build Jekyll site
+        run: |
+          bundle exec jekyll build  # 构建站点
+
+      - name: Deploy to GitHub Pages
+        uses: jamesives/github-pages-deploy-action@v4.1.0  # 使用 GitHub Pages 部署工具
+        with:
+          branch: main  # 将构建的内容部署到 main 分支
+          folder: _site  # 需要部署的文件夹是 Jekyll 的默认输出文件夹 _site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub token 执行部署操作
