@@ -18,4 +18,5 @@ group :jekyll_plugins do
   gem 'jekyll-feed'              # 生成 RSS Feed
   gem 'jemoji'                   # 支持 emoji 表情
   gem 'jekyll_picture_tag', '~> 2.0'  # 图片优化标签
+  gem "jekyll-theme-image-grid"
 end

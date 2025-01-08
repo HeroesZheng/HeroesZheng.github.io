@@ -1,0 +1,41 @@
+body { background-color: white; }
+
+.header .container { padding-top: 1em; }
+
+.navbar-light .navbar-brand { color: blue; }
+
+.navbar { background-color: white; }
+
+.footer { margin-top: 4em; }
+
+.social-media-list li { display: inline; margin-right: 1em; }
+
+.svg-icon { fill: silver; width: 1em; }
+
+.grid-square-og { height: 100%; object-fit: contain; }
+
+.grid-masonry { border: none; padding-top: 0.5em; }
+
+.image-container { display: inline-block; padding: 0.5em; }
+
+@media (min-width: 576px) { .image-container { height: 183px; width: 183px; overflow: hidden; } }
+
+@media (min-width: 768px) { .image-container { height: 240px; width: 240px; overflow: hidden; } }
+
+@media (min-width: 992px) { .image-container { height: 322px; width: 322px; overflow: hidden; } }
+
+@media (min-width: 1200px) { .image-container { height: 380px; width: 380px; overflow: hidden; } }
+
+.post-title { font-size: 1.5em; color: gray; }
+
+.post-date { font-size: 0.9em; color: darkgray; }
+
+.post-content { margin-top: 1em; }
+
+.post img { padding-top: 0.5em; padding-bottom: 0.5em; }
+
+.post-text-container { margin-top: 0.5em; }
+
+.page-title { font-size: 2em; color: gray; margin-bottom: 0.5em; }
+
+/*# sourceMappingURL=style.css.map */

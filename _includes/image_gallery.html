@@ -1,0 +1,25 @@
+<div class="image-gallery">
+    {% for image in include.images %}
+    <figure class="thumbnail">
+        <img src="{{ image.src }}" alt="{{ image.alt }}" class="gallery-image" data-large="{{ image.src }}">
+        <figcaption>{{ image.alt }}</figcaption>
+    </figure>
+    {% endfor %}
+</div>
+
+<!-- 模态框（大图显示） -->
+<div class="lightbox" id="lightbox">
+    <div class="lightbox-content">
+        <span class="close" onclick="imageGallery.closeLightbox()">×</span>
+        <img id="lightbox-img" src="" alt="">
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+        <button class="lightbox-prev" onclick="imageGallery.changeImage(-1)">❮</button>
+        <button class="lightbox-next" onclick="imageGallery.changeImage(1)">❯</button>
+    </div>
+</div>
+
+
+
+<!-- JavaScript 放在底部 -->
+<script src="/assets/js/lightbox.js"></script>
+<script src="https://unpkg.com/heic2any/dist/heic2any.min.js"></script>

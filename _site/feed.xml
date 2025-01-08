@@ -1,10 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-08T15:11:28+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2024/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2024-01-03T00:00:00+08:00</published><updated>2024-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2024/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-08T20:00:47+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2024/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2024-01-03T00:00:00+08:00</published><updated>2024-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2024/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
 
 <p>2024年是我的本命年，虽然有一些小的曲折，但总体平稳度过。在经济下行的周期中，平稳本身就是一种幸福。今年，我也开始着手构建自己的人生框架，深信只要持续迭代，必定能穿越周期。</p>
 
 \[\frac{\text{认知杠杆} \times \text{技术杠杆} \times \text{资本杠杆}}{\text{健康基石}} \rightarrow \text{系统复利} \rightarrow \text{自由人生}\]
 
 <h3 id="一开篇回顾2024">一、开篇：回顾2024</h3>
+
+<div class="image-gallery">
+    
+    <figure class="thumbnail">
+        <img src="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" alt="南宁，香格里" class="gallery-image" data-large="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" />
+        <figcaption>南宁，香格里</figcaption>
+    </figure>
+    
+    <figure class="thumbnail">
+        <img src="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" alt="南澳岛，花间里" class="gallery-image" data-large="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" />
+        <figcaption>南澳岛，花间里</figcaption>
+    </figure>
+    
+    <figure class="thumbnail">
+        <img src="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" alt="初哥的假期" class="gallery-image" data-large="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" />
+        <figcaption>初哥的假期</figcaption>
+    </figure>
+    
+    <figure class="thumbnail">
+        <img src="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" alt="初哥的假期" class="gallery-image" data-large="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" />
+        <figcaption>初哥的假期</figcaption>
+    </figure>
+    
+</div>
+
+<!-- 模态框（大图显示） -->
+<div class="lightbox" id="lightbox">
+    <div class="lightbox-content">
+        <span class="close" onclick="imageGallery.closeLightbox()">×</span>
+        <img id="lightbox-img" src="" alt="" />
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+        <button class="lightbox-prev" onclick="imageGallery.changeImage(-1)">❮</button>
+        <button class="lightbox-next" onclick="imageGallery.changeImage(1)">❯</button>
+    </div>
+</div>
+
+<!-- JavaScript 放在底部 -->
+<script src="/assets/js/lightbox.js"></script>
+
+<script src="https://unpkg.com/heic2any/dist/heic2any.min.js"></script>
+
 <p>午夜的钟声敲响，朋友圈被烟火、告别与新年flag刷屏。有人在城市地标下仰望璀璨烟花，有人用长文向过去告别，也有人悄悄在心底埋下一颗改变的种子。每个人都在用自己的方式告别2024，迎接新的一年。2024，猝不及防的过去了。</p>
 
 <p>当我剪辑24年年度Vlog，把一年的时光浓缩成几分钟的时，发现平淡的生活中仍然能有几个高亮的片段，而这些瞬间竟然构成了全部对生活的记忆。</p>

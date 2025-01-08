@@ -743,3 +743,141 @@ img + em {
 @media (max-width: 400px) { .content-header-ad { display: none; } }
 @media (min-width:500px) { .content-header-ad { width: 468px; height: 60px; } }
 @media (min-width:800px) { .content-header-ad { width: 728px; height: 90px; } }
+
+
+/* 图片排版容器 */
+.image-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* 使用 auto-fit，确保图片自适应填满页面 */
+    gap: 8px; /* 图片之间的间距 */
+    margin-bottom: 20px;
+    padding: 0 8px; /* 添加左右的空白 */
+    grid-auto-rows: minmax(150px, 300px); /* 确保行高一致并根据内容自动调整 */
+}
+
+/* 每张缩略图 */
+.image-gallery .thumbnail {
+    margin: 0; /* 去掉默认 margin，避免影响布局 */
+    border: none; /* 强制不显示边框 */
+    width: 100%; /* 强制宽度为100% */
+}
+
+/* 单张图片样式 */
+.image-gallery figure {
+    margin: 0;
+    padding: 0;
+    overflow: visible; /* 改为 visible，确保文字显示 */
+    position: relative;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column; /* 垂直排列图片和文字 */
+    justify-content: space-between; /* 保证内容间距合理 */
+    height: 100%; /* 让每个 figure 占满一定的高度 */
+}
+
+/* 缩略图样式 */
+.image-gallery img {
+    width: 100%; /* 确保图片宽度自适应 */
+    height: 100%; /* 高度自适应 */
+    object-fit: cover; /* 保持图片的填充和比例 */
+    border: 4px solid #f0f0f0; /* 简洁的边框 */
+    border-radius: 8px;
+    transition: transform 0.3s ease, border-color 0.3s ease; /* 添加过渡效果 */
+    min-height: 150px; /* 最小高度 */
+    max-height: 300px; /* 最大高度 */
+}
+
+/* 鼠标悬停效果 */
+.image-gallery img:hover {
+    border-color: #dcdcdc; /* 增加边框的颜色深度 */
+}
+
+/* 鼠标离开时恢复 */
+.image-gallery img:not(:hover) {
+    border-color: #f0f0f0; /* 恢复原本的边框颜色 */
+}
+
+/* 图片说明文本 */
+.image-gallery figcaption {
+    text-align: center;
+    margin-top: 5px; /* 增加间距，确保文字不与图片太紧凑 */
+    font-size: 0.9rem;
+    color: #777;
+    font-style: italic;
+    padding: 0;
+    margin-bottom: 5px;
+    max-height: 50px; /* 限制最大高度，避免文字溢出 */
+    overflow: hidden; /* 隐藏超出部分 */
+    text-overflow: ellipsis; /* 如果文字太多，用省略号表示 */
+}
+
+/* 大图显示的样式 */
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+}
+
+.lightbox-content {
+    position: relative;
+    max-width: 80%;
+    max-height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#lightbox-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.lightbox-caption {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #fff;
+    text-align: center;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* 轮播按钮样式 */
+.lightbox-prev, .lightbox-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.15);
+    color: white;
+    font-size: 32px;
+    padding: 12px;
+    cursor: pointer;
+    z-index: 10;
+    border: none;
+    outline: none;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.lightbox-prev {
+    left: 10px;
+}
+
+.lightbox-next {
+    right: 10px;
+}
