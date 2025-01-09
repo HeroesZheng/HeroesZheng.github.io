@@ -17,7 +17,7 @@ images_1:
     alt: "初哥的假期"
 
 images_2:
-  - src: /images/2025-OKR.PNG
+  - src: /images/2025-OKR.png
     alt: "2025年OKR"
  
 ---
