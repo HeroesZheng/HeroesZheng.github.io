@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-09T09:32:44+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2024/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2024-01-03T00:00:00+08:00</published><updated>2024-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2024/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-09T10:15:54+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2024/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2024-01-03T00:00:00+08:00</published><updated>2024-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2024/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
 
 <p>2024年是我的本命年，虽然有一些小的曲折，但总体平稳度过。在经济下行的周期中，平稳本身就是一种幸福。今年，我也开始着手构建自己的人生框架，深信只要持续迭代，必定能穿越周期。</p>
 
@@ -11,6 +11,7 @@
 <p>当我剪辑24年年度Vlog，把一年的时光浓缩成几分钟的时，发现平淡的生活中仍然能有几个高亮的片段，而这些瞬间竟然构成了全部对生活的记忆。</p>
 
 <p>这些被定格的瞬间，像是真实生活的证据。而那些高光片段，则像是生命河流上泛起的星光，是平凡生命中温暖的馈赠</p>
+
 <div class="image-gallery">
     
     <figure class="thumbnail">
@@ -223,7 +224,33 @@
   <li>允许开源节流，也允许享受生活，去看看世界。</li>
 </ul>
 
-<p>有些看似当下不好的事情，也许正是我们人生路上路牌，指引我们走向更好的未来。万事万物的发生皆有利于我，允许自由发生，允许无限可能！</p>]]></content><author><name>DempeZheng</name></author><category term="年度总结" /><summary type="html"><![CDATA[2024年，对于一位大龄大厂程序员来说，是充满挑战与成长的一年。本文总结了这一年在生活、投资、健康、成长等方面的深刻思考与规划，探讨了如何在压力中寻找内心的平衡，如何应对工作中的不确定性和压力，如何在经济下行周期中实现自己的突破。文章还分享了对未来一年的愿景，以及如何通过持续学习和自我迭代来跨越职业和生活中的周期性挑战。]]></summary></entry><entry><title type="html">00：开篇：越过淡季，森林和电</title><link href="http://localhost:4000/2023/12/30/00-Monthly-Journal/" rel="alternate" type="text/html" title="00：开篇：越过淡季，森林和电" /><published>2023-12-30T00:00:00+08:00</published><updated>2023-12-30T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/30/00-Monthly-Journal</id><content type="html" xml:base="http://localhost:4000/2023/12/30/00-Monthly-Journal/"><![CDATA[<blockquote>
+<p>有些看似当下不好的事情，也许正是我们人生路上路牌，指引我们走向更好的未来。万事万物的发生皆有利于我，允许自由发生，允许无限可能！</p>
+
+<p>最后，祝愿2025能遇见更好的自己，附：2025年个人OKR：</p>
+<div class="image-gallery">
+    
+    <figure class="thumbnail">
+        <img src="/images/2025-OKR.PNG" alt="2025年OKR" class="gallery-image" data-large="/images/2025-OKR.PNG" />
+        <figcaption>2025年OKR</figcaption>
+    </figure>
+    
+</div>
+
+<!-- 模态框（大图显示） -->
+<div class="lightbox" id="lightbox">
+    <div class="lightbox-content">
+        <span class="close" onclick="imageGallery.closeLightbox()">×</span>
+        <img id="lightbox-img" src="" alt="" />
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+        <button class="lightbox-prev" onclick="imageGallery.changeImage(-1)">❮</button>
+        <button class="lightbox-next" onclick="imageGallery.changeImage(1)">❯</button>
+    </div>
+</div>
+
+<!-- JavaScript 放在底部 -->
+<script src="/assets/js/lightbox.js"></script>
+
+<script src="https://unpkg.com/heic2any/dist/heic2any.min.js"></script>]]></content><author><name>DempeZheng</name></author><category term="年度总结" /><summary type="html"><![CDATA[2024年，对于一位大龄大厂程序员来说，是充满挑战与成长的一年。本文总结了这一年在生活、投资、健康、成长等方面的深刻思考与规划，探讨了如何在压力中寻找内心的平衡，如何应对工作中的不确定性和压力，如何在经济下行周期中实现自己的突破。文章还分享了对未来一年的愿景，以及如何通过持续学习和自我迭代来跨越职业和生活中的周期性挑战。]]></summary></entry><entry><title type="html">00：开篇：越过淡季，森林和电</title><link href="http://localhost:4000/2023/12/30/00-Monthly-Journal/" rel="alternate" type="text/html" title="00：开篇：越过淡季，森林和电" /><published>2023-12-30T00:00:00+08:00</published><updated>2023-12-30T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/30/00-Monthly-Journal</id><content type="html" xml:base="http://localhost:4000/2023/12/30/00-Monthly-Journal/"><![CDATA[<blockquote>
   <p><em>在愿望的最后一个季节，解散清晨还有黄昏 ——万青 · 《揪心的玩笑与漫长的白日梦》</em></p>
 </blockquote>
 
