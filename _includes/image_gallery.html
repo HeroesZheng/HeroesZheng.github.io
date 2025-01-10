@@ -1,11 +1,15 @@
 <div class="image-gallery">
     {% for image in include.images %}
     <figure class="thumbnail">
-        <img src="{{ image.src }}" alt="{{ image.alt }}" class="gallery-image" data-large="{{ image.src }}">
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="{{ image.src | picture_tag: width: 480 }}" media="(max-width: 480px)">
+            <source srcset="{{ image.src | picture_tag: width: 768 }}" media="(max-width: 768px)">
+            <img src="{{ image.src | picture_tag: width: 1024 }}" alt="{{ image.alt }}" class="gallery-image" data-large="{{ image.src }}" loading="lazy">
         <figcaption>{{ image.alt }}</figcaption>
     </figure>
     {% endfor %}
 </div>
+
 
 <!-- 模态框（大图显示） -->
 <div class="lightbox" id="lightbox">

@@ -115,7 +115,20 @@ plugins:
     - jekyll-feed
     - jemoji
     - jekyll_picture_tag
+    - jekyll-compress-images
 #     - jekyll-mentions
+
+compress_images:
+  images_path: "images/*.{gif,png,jpg,jpeg,svg}"
+
+image_compression:
+  image_dir: "images"  # 指定图片目录
+  quality: 85  # 设定压缩质量，默认 80
+  pngquant: true  # 启用 PNG 图片的压缩
+  jpegoptim: true  # 启用 JPEG 图片的压缩
+  svgo: true  # 启用 SVG 图片的优化
+  verbose: false  # 是否打印详细日志
+
 collections:
     wiki:
         output: true

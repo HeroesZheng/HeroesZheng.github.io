@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 # Jekyll 核心依赖
 gem 'jekyll', '~> 4.2.0'
 gem 'webrick', '~> 1.7'
+gem "psych", "~> 3.1"  # 使用一个较新的 psych 版本
+
 
 # Windows 平台依赖
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
@@ -19,4 +21,5 @@ group :jekyll_plugins do
   gem 'jemoji'                   # 支持 emoji 表情
   gem 'jekyll_picture_tag', '~> 2.0'  # 图片优化标签
   gem "jekyll-theme-image-grid"
+  gem 'jekyll-compress-images'
 end

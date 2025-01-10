@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-09T10:41:46+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2024/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2024-01-03T00:00:00+08:00</published><updated>2024-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2024/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-10T09:38:38+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2024/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2024-01-03T00:00:00+08:00</published><updated>2024-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2024/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
 
 <p>2024年是我的本命年，虽然有一些小的曲折，但总体平稳度过。在经济下行的周期中，平稳本身就是一种幸福。今年，我也开始着手构建自己的人生框架，深信只要持续迭代，必定能穿越周期。</p>
 
@@ -15,22 +15,34 @@
 <div class="image-gallery">
     
     <figure class="thumbnail">
-        <img src="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" alt="南宁，香格里" class="gallery-image" data-large="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" />
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" media="(max-width: 480px)" />
+            <source srcset="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" media="(max-width: 768px)" />
+            <img src="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" alt="南宁，香格里" class="gallery-image" data-large="/images/9f4d4f8224e6b4d28f93a9c09e0e4851.JPG" loading="lazy" />
         <figcaption>南宁，香格里</figcaption>
     </figure>
     
     <figure class="thumbnail">
-        <img src="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" alt="南澳岛，花间里" class="gallery-image" data-large="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" />
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" media="(max-width: 480px)" />
+            <source srcset="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" media="(max-width: 768px)" />
+            <img src="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" alt="南澳岛，花间里" class="gallery-image" data-large="/images/24cbb51c9362a4f20407c54baa06bacf.JPG" loading="lazy" />
         <figcaption>南澳岛，花间里</figcaption>
     </figure>
     
     <figure class="thumbnail">
-        <img src="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" alt="初哥的假期" class="gallery-image" data-large="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" />
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" media="(max-width: 480px)" />
+            <source srcset="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" media="(max-width: 768px)" />
+            <img src="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" alt="初哥的假期" class="gallery-image" data-large="/images/62eb0476d883bab1d183d1fef1b9a6a7.JPG" loading="lazy" />
         <figcaption>初哥的假期</figcaption>
     </figure>
     
     <figure class="thumbnail">
-        <img src="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" alt="初哥的假期" class="gallery-image" data-large="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" />
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" media="(max-width: 480px)" />
+            <source srcset="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" media="(max-width: 768px)" />
+            <img src="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" alt="初哥的假期" class="gallery-image" data-large="/images/91d37abcbe16173bdcdb146b5cf89fff.JPG" loading="lazy" />
         <figcaption>初哥的假期</figcaption>
     </figure>
     
@@ -230,7 +242,10 @@
 <div class="image-gallery">
     
     <figure class="thumbnail">
-        <img src="/images/2025-OKR.png" alt="2025年OKR" class="gallery-image" data-large="/images/2025-OKR.png" />
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/2025-OKR.png" media="(max-width: 480px)" />
+            <source srcset="/images/2025-OKR.png" media="(max-width: 768px)" />
+            <img src="/images/2025-OKR.png" alt="2025年OKR" class="gallery-image" data-large="/images/2025-OKR.png" loading="lazy" />
         <figcaption>2025年OKR</figcaption>
     </figure>
     
