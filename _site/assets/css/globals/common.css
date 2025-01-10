@@ -881,3 +881,112 @@ img + em {
 .lightbox-next {
     right: 10px;
 }
+
+/* 基础样式 */
+.podcast-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  /* 内容之间间隔均匀 */
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin: 16px 0;
+    border: 1px solid #e6e6e6;  /* 精致浅灰边框 */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+    max-width: 800px;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);  /* 轻微阴影增加精致感 */
+    height: 80px;  /* 设置固定卡片高度 */
+}
+
+.podcast-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* 播客图片 */
+.podcast-card-image {
+    flex-shrink: 0;
+    width: 60px;
+    height: 60px;  /* 图片小一些 */
+    margin-right: 12px;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.podcast-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+/* 播客内容 */
+.podcast-card-content {
+    flex-grow: 1;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.podcast-card-content h3 {
+    font-size: 1em;
+    margin: 0;
+    color: #333;  /* 深灰色 */
+    font-weight: 600;
+    line-height: 1.2;
+    white-space: nowrap;  /* 防止文字换行 */
+    overflow: hidden;
+    text-overflow: ellipsis;  /* 省略溢出的文字 */
+}
+
+.podcast-card-content p {
+    font-size: 0.85em;
+    margin: 2px 0;
+    color: #777;  /* 软灰色 */
+    line-height: 1.5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* 收听按钮 */
+.podcast-button {
+    display: inline-block;
+    padding: 6px 12px;  /* 小尺寸 */
+    background-color: #6c7c74;  /* 低调的灰绿色 */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 0.9em;  /* 小字体 */
+    align-self: center;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.podcast-button:hover {
+    background-color: #5a6a5c;  /* 悬停加深颜色 */
+    transform: scale(1.05);
+}
+
+/* 响应式设计：适应小屏幕 */
+@media (max-width: 768px) {
+    .podcast-card {
+        flex-direction: column;
+        text-align: center;
+        height: auto;
+    }
+
+    .podcast-card-image {
+        width: 100px;
+        height: 100px;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .podcast-button {
+        width: 100%;
+        text-align: center;
+    }
+}
