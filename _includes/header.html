@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/globals/responsive.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/posts/index.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/vendor/octicons/octicons/octicons.css">
+
     {% assign highlight_base_url = 'https://mazhuang.org/rouge-themes/dist' %}
     {% if site.cdn.jsdelivr.enabled %}
     {% assign highlight_base_url = 'https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/dist' %}
@@ -94,7 +95,6 @@
         <div class="container">
             <h1>
                 <a href="{{ site.url }}/" title="{{ site.title }}">
-<!--                    <img src="{{ site.url }}/favicon_reverse.png" alt="GitHub" style="vertical-align: middle; width: 35px; height: 35px;">-->
                     <span class="octicon octicon-mark-github"></span>
                     {{ site.title }}
                 </a>
@@ -106,9 +106,19 @@
             </button>
             <nav class="site-header-nav" role="navigation">
                 {% for nav in site.navs %}
-                <a href="{{ site.url }}{{ nav.href }}" class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item" target="{{ nav.target | default: _self }}" title="{{ nav.label }}">{{ nav.label }}</a>
+                <a href="{{ site.url }}{{ nav.href }}"
+                   class="site-header-nav-item{% if page.menu == nav.label %} selected{% endif %}"
+                   target="{{ nav.target | default: '_self' }}"
+                   title="{{ nav.label }}">
+                    <i class="{{ nav.icon }}"></i> <!-- 动态图标 -->
+                    {{ nav.label }}
+                </a>
                 {% endfor %}
+                <a class="mobile-hidden" href="{{ site.url }}{{ site.subscribe_rss }}" title="订阅 RSS">
+                    <i class="octicon octicon-rss" style="color:orange;"></i>
+                </a>
             </nav>
+
         </div>
     </header>
     <!-- / header -->

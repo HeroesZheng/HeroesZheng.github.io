@@ -504,12 +504,14 @@
     text-align: right
 }
 
-.markdown-body code,.markdown-body tt {
+.markdown-body code, .markdown-body tt {
     padding: .2em 0;
     margin: 0;
     font-size: 85%;
-    background-color: rgba(0,0,0,.04);
-    /* border-radius: 3px */
+    background-color: rgba(255, 240, 250, 0.3); /* 更浅的粉色背景 */
+    color: #d6336c; /* 深粉红/紫色文字 */
+    font-family: "Courier New", Courier, monospace; /* 等宽字体 */
+    border-radius: 4px; /* 圆角 */
 }
 
 .markdown-body code:after,.markdown-body code:before,.markdown-body tt:after,.markdown-body tt:before {

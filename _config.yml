@@ -22,12 +22,12 @@ components:
     # 分享
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
-        enabled: false
-        hide-platforms: wechat,facebook
+        enabled: true
+        hide-platforms: qq,douban,qzone,linkedin
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2024-05-03
     # My Popular Repositories
     side_bar_repo:
         enabled: false
@@ -62,11 +62,13 @@ email: yinweiniyu@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: 📰首页
+    icon: "octicon octicon-home"
 
   -
     href: /categories/
     label: 分类
+    icon: "octicon octicon-book"
 
 #   -
 #     href: /archives/
@@ -83,10 +85,12 @@ navs:
   -
     href: /links/
     label: 链接
+    icon: "octicon octicon-mail"
 
   -
     href: /about/
     label: 关于
+    icon: "octicon octicon-person"
 
 # ---------------- #
 #       RSS        #
@@ -145,6 +149,12 @@ gitalk:
   repo: blog-comments
   clientID: Ov23li6FmCJDmAIlZmNK
   clientSecret: 81bd012195b582aa2cabb7d2d472dd173353beef
+
+simple_jekyll_search:
+  # 是否支持全文搜索
+  fulltext: false
+  # 最多显示多少条搜索结果
+  limit: 10
 
 # ---------------- #
 #      Google      #
