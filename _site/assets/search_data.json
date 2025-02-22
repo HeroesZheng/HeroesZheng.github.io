@@ -76,6 +76,8 @@
   
   
   
+  
+  
 
   
     {
@@ -210,7 +212,7 @@
       "title"    : "2023，步履不停，穿越周期",
       "category" : "年度总结",
       
-      "url"      : "http://localhost:4000/2023/01/10/Endless-Steps/",
+      "url"      : "http://localhost:4000/2024/01/10/Endless-Steps/",
       "keywords" : "总结"
     } ,
   
@@ -218,7 +220,7 @@
       "title"    : "00：开篇：越过淡季，森林和电",
       "category" : "月刊",
       
-      "url"      : "http://localhost:4000/2023/12/30/00-Monthly-Journal/",
+      "url"      : "http://localhost:4000/2024/12/30/00-Monthly-Journal/",
       "keywords" : "总结"
     } ,
   
@@ -226,7 +228,7 @@
       "title"    : "2024年度总结:允许发生，无限可能",
       "category" : "年度总结",
       
-      "url"      : "http://localhost:4000/2024/01/03/Annual-Summary/",
+      "url"      : "http://localhost:4000/2025/01/03/Annual-Summary/",
       "keywords" : "大龄程序员、2024年终总结、生活规划、投资策略、思考复盘、个人成长"
     } ,
   
@@ -234,8 +236,16 @@
       "title"    : "成为“懂商业的技术人”，未来顶级人群的标配",
       "category" : "成长",
       
-      "url"      : "http://localhost:4000/2024/01/11/ChatGPT/",
+      "url"      : "http://localhost:4000/2025/01/11/Embracing-the-AI/",
       "keywords" : "ChatGPT、35岁危机、顶级认知、复合能力"
+    } ,
+  
+    {
+      "title"    : "01：无限可能，自由发生",
+      "category" : "月刊",
+      
+      "url"      : "http://localhost:4000/2025/02/22/00-Endless-Possibilities/",
+      "keywords" : "总结"
     } ,
   
     {

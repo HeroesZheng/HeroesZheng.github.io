@@ -1,4 +1,157 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-11T10:51:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">成为“懂商业的技术人”，未来顶级人群的标配</title><link href="http://localhost:4000/2024/01/11/ChatGPT/" rel="alternate" type="text/html" title="成为“懂商业的技术人”，未来顶级人群的标配" /><published>2024-01-11T00:00:00+08:00</published><updated>2024-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/11/ChatGPT</id><content type="html" xml:base="http://localhost:4000/2024/01/11/ChatGPT/"><![CDATA[<h2 id="记录一次和gpt的对话">记录一次和GPT的对话</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-22T13:12:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dolphin</title><subtitle>让万物穿过自己，允许发生，无限可能！</subtitle><author><name>DempeZheng</name></author><entry><title type="html">01：无限可能，自由发生</title><link href="http://localhost:4000/2025/02/22/00-Endless-Possibilities/" rel="alternate" type="text/html" title="01：无限可能，自由发生" /><published>2025-02-22T00:00:00+08:00</published><updated>2025-02-22T00:00:00+08:00</updated><id>http://localhost:4000/2025/02/22/00-Endless-Possibilities</id><content type="html" xml:base="http://localhost:4000/2025/02/22/00-Endless-Possibilities/"><![CDATA[<blockquote>
+  <p><em>曾像夜那么黑 每个清晨曾阻挡每个梦 每一道门终于也可能 无限可能 自由发生—— 张碧晨 · 《开往早晨的午夜》</em></p>
+</blockquote>
+
+<h2 id="一生活诗和故乡终不是归宿">一、生活：诗和故乡，终不是归宿</h2>
+
+<p>春节回家，小县城还是原来的小县城，城市老了，褪去的原来的色彩。县城没有大城市的快节奏和内卷，但也不是想象力的岁月静好。人们为了些微的利益忙碌奔波，吵吵嚷嚷。到今天我也没学会麻将，也不习惯酒桌，故乡也没有接纳我，我也融不进县城。幸运的是，去年没有一时冲动在老家买房，也没有盖自建房。</p>
+
+<p>趁着春节假期给妈妈过了一个简单的生日，虽然只是小事，但对于我和妈妈，都留下了宝贵的记忆。也是趁着假期，自驾去了云南，一路经过贵州、昆明、大理、丽江，回程还路过了梧州。即便是错峰出行，开车耗费了不少精力，真正玩的时间并不多。到了丽江，海拔2400米的地方，我竟然有轻微高原反应，也许是年纪大了，身体不再像从前那样能折腾了。没能尽兴游玩，就匆匆踏上了归途。</p>
+
+<div class="image-gallery">
+    
+    <figure class="thumbnail">
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/6621740199639_.pic.jpg" media="(max-width: 480px)" />
+            <source srcset="/images/6621740199639_.pic.jpg" media="(max-width: 768px)" />
+            <img src="/images/6621740199639_.pic.jpg" alt="偶遇山间林雾" class="gallery-image" data-large="/images/6621740199639_.pic.jpg" loading="lazy" />
+        <figcaption>偶遇山间林雾</figcaption>
+    </figure>
+    
+    <figure class="thumbnail">
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/6631740199639_.pic.jpg" media="(max-width: 480px)" />
+            <source srcset="/images/6631740199639_.pic.jpg" media="(max-width: 768px)" />
+            <img src="/images/6631740199639_.pic.jpg" alt="大理油菜花" class="gallery-image" data-large="/images/6631740199639_.pic.jpg" loading="lazy" />
+        <figcaption>大理油菜花</figcaption>
+    </figure>
+    
+    <figure class="thumbnail">
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/6601740199638_.pic.jpg" media="(max-width: 480px)" />
+            <source srcset="/images/6601740199638_.pic.jpg" media="(max-width: 768px)" />
+            <img src="/images/6601740199638_.pic.jpg" alt="玉龙雪山" class="gallery-image" data-large="/images/6601740199638_.pic.jpg" loading="lazy" />
+        <figcaption>玉龙雪山</figcaption>
+    </figure>
+    
+    <figure class="thumbnail">
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/6611740199639_.pic.jpg" media="(max-width: 480px)" />
+            <source srcset="/images/6611740199639_.pic.jpg" media="(max-width: 768px)" />
+            <img src="/images/6611740199639_.pic.jpg" alt="返程和雪山" class="gallery-image" data-large="/images/6611740199639_.pic.jpg" loading="lazy" />
+        <figcaption>返程和雪山</figcaption>
+    </figure>
+    
+</div>
+
+<!-- 模态框（大图显示） -->
+<div class="lightbox" id="lightbox">
+    <div class="lightbox-content">
+        <span class="close" onclick="imageGallery.closeLightbox()">×</span>
+        <img id="lightbox-img" src="" alt="" />
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+        <button class="lightbox-prev" onclick="imageGallery.changeImage(-1)">❮</button>
+        <button class="lightbox-next" onclick="imageGallery.changeImage(1)">❯</button>
+    </div>
+</div>
+
+<!-- JavaScript 放在底部 -->
+<script src="/assets/js/lightbox.js"></script>
+
+<script src="https://unpkg.com/heic2any/dist/heic2any.min.js"></script>
+
+<p>一路上住了不少酒店，有的上千，体验也很一般，反而有些小县城200百多的酒店却也能给人惊喜。旅程后半段睡眠质量很差，不知道是生活节奏变化引起，还是长期居住酒店引起。但我也意识到酒店环境再好，也不适合长住。旅行只是短时间的逃离，并不是归途。故乡也是，只是一种念想，一种寄托，终不是归宿。</p>
+
+<h2 id="二成长坚持做对的事情">二、成长：坚持做对的事情</h2>
+
+<h3 id="英语学习多领国">英语学习：多领国</h3>
+<div class="image-gallery">
+    
+    <figure class="thumbnail">
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/6511739762266_.pic.jpg" media="(max-width: 480px)" />
+            <source srcset="/images/6511739762266_.pic.jpg" media="(max-width: 768px)" />
+            <img src="/images/6511739762266_.pic.jpg" alt="多邻国学英语" class="gallery-image" data-large="/images/6511739762266_.pic.jpg" loading="lazy" />
+        <figcaption>多邻国学英语</figcaption>
+    </figure>
+    
+    <figure class="thumbnail">
+            <!-- 为不同设备加载不同尺寸的图片 -->
+            <source srcset="/images/6501739762245_.pic.jpg" media="(max-width: 480px)" />
+            <source srcset="/images/6501739762245_.pic.jpg" media="(max-width: 768px)" />
+            <img src="/images/6501739762245_.pic.jpg" alt="多邻国学英语" class="gallery-image" data-large="/images/6501739762245_.pic.jpg" loading="lazy" />
+        <figcaption>多邻国学英语</figcaption>
+    </figure>
+    
+</div>
+
+<!-- 模态框（大图显示） -->
+<div class="lightbox" id="lightbox">
+    <div class="lightbox-content">
+        <span class="close" onclick="imageGallery.closeLightbox()">×</span>
+        <img id="lightbox-img" src="" alt="" />
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+        <button class="lightbox-prev" onclick="imageGallery.changeImage(-1)">❮</button>
+        <button class="lightbox-next" onclick="imageGallery.changeImage(1)">❯</button>
+    </div>
+</div>
+
+<!-- JavaScript 放在底部 -->
+<script src="/assets/js/lightbox.js"></script>
+
+<script src="https://unpkg.com/heic2any/dist/heic2any.min.js"></script>
+
+<p>作为技术人，英语学习是一直想要做的事情，经历了新冠疫情之后，我深知英语不仅是专业发展的必备工具，也是拓宽全球视野的关键。曾经多次尝试过学习，全都半途而废了。今年，我终于找到了适合自己的方式——多邻国。它为我量身定制的课程和游戏打卡式的学习方式，让英语学习变得轻松而有趣。很快，我就毫不犹豫地为自己和初哥购买了家庭会员，目前我已经坚持学习了2个月多，学英语也变成了一种习惯。</p>
+
+<h3 id="播客相比阅读播客好像更适合我">播客：相比阅读，播客好像更适合我</h3>
+
+<p>寒假期间陪初哥一起完成了学校老师组织的阅读亲子打卡活动：“寒假期间，每天阅读50页”。读完了《被讨厌的勇气》和《塔木德》，假期坚持打卡阅读比想象的要更难一点。因为没有那么舒服，吸收的效果可能也没那么好。不过增加了阅读摄入知识的方式，算是一个很好的开始。</p>
+
+<p>这一个月也是疯狂的听播客，小宇宙上评论较多的博客都听的七七八八了，订阅的内容更新的进度已经满足不了我的需求。所以也开始去喜马拉雅找内容。发现有好多优秀的有声图书，听下来感觉也很不错。相比于文字阅读，播客或者有声书更适合我，重要的是，听播客的时候还可以做其他事情，上下班途中，有播客陪伴给无聊的时光增色不少。最近跑步和骑车的时候，也会挑选自己喜欢的播客，运动+好的内容，二者叠加到一起，真的太美妙了。</p>
+
+<h3 id="aideepseek-横空出世">AI：DeepSeek 横空出世</h3>
+<p><img src="/images/DeepSeek-local-7b.png" alt="DeepSeek-local-7b.png" />
+春节前，我刷到一个关于DeepSeek的视频，提到他们以550万美元的成本训练出了顶级大模型，低成本、开源、国内、顶级推理模型一系列的炸裂标签，但更吸引我的是，DeepSeek的低成本训练是否会对英伟达的股票产生冲击。低成本训练模型开源，可能会减弱巨头对算力的依赖，同时极大地刺激需求，类似于蒸汽机技术的兴起，虽然降低了成本，却也带来了更广泛的应用。</p>
+
+<p>目前，我仍然不确定AI训练成本的降低究竟是对英伟达是利好还是利空，但可以确认的是，AI正以令人惊叹的速度进化，而我们对AI对社会的影响还缺乏足够的想象力。过去的技术革命大多围绕工具和效率展开，而AI的出现，可能不再仅仅是工具，甚至有可能接管一部分决策。</p>
+
+<p>无论如何，AI对普通人来说，应该都是一种利好。也许我们真的不需要追求长期稳定的工作，或内卷式鸡娃。AI的进步将推动物质的发展，未来我们可能不再需要像今天一样工作。当然，我确实无法预见，十年后AI将会构建怎样的世界，当下的内卷、内耗确实没必要。好好拥抱AI，终身学习，多元发展，活在当下，未来交给更好的未来的自己。</p>
+
+<h3 id="关于内耗和自己和解">关于内耗：和自己和解</h3>
+
+<p>2024年的关键词是“内耗”，如何化解内耗，成了我近期思考的课题。修炼内心的稳定，理清自己害怕的事情，并考虑最坏的情况，给自己搭建一个安全平台，让自己知道，即使跌落悬崖，也有一个可以依靠的底线。如果能接受这个平台，我也许就能不再害怕最坏的结果。尽管如此，我发现内耗依然无法完全避免。我知道这些道理（尽管不一定完全理解），但当下的困境依然难以解脱。</p>
+
+<p>我天生敏感，能够迅速捕捉到他人的情感变化，能轻易感知到文艺电影中情绪的流动，也比较能够预判到未来的变化。然而，这种敏感像一盏探照灯，照亮别人时，可以感知他人的美好与细节；照在自己身上时，却让自己焦虑内耗。</p>
+
+<p>这种敏锐是内耗的根源之一，它赋予了我丰富的情感和深刻的洞察力，但也让我的内耗不断加剧。内耗让我焦虑，消耗我自己，但也正是它驱动我不断改变与进步。或许我无法彻底摆脱内耗，至少当下不可以。继续修炼自己的内核，降低内耗对个人的消耗，接纳内耗，也接纳我自己。</p>
+
+<h2 id="三理财关于赚钱我有点急">三、理财：关于赚钱我有点急</h2>
+
+<p>我想快点摆脱当下是生活状态，所以我太想快点赚到钱了。这个月我能明显感觉到自己很急，很着急赚钱，很着急时间快速来到我的目标节点。理性告诉我，赚快钱是危险的事情，内心依然盼望买到的股票翻倍。这个月，我真的买到了翻倍的股票Hims。从20多涨到60多，可惜的是我在30多的是抛掉了。人确实很难转到认知外的钱。一方面对持有的标的不够了解，一方面也是因为自己没有见过世面，对赚钱这个事情不够有想象。昨天还听到播客里面做金融的大佬，提到，这个世界的大钱很多都是从天上掉下来的，不是辛苦得来的，要我们有足够的认知和丰富的想象。</p>
+
+<p>总有些人一年收益翻几倍，也总有一些股票一个月上涨几倍，甚至我年前推荐给同事关注的股票翻了7倍，我自己后面反而清仓了。这个世界无时无刻都有人在暴富，同时也时时刻刻有人再爆仓，但这些都跟我们没关系，只是我恰好听见和看见，高收益永远伴随风险。对于当下的我，还没有足够的认知前，保护好本金，做对的事情，保证自己不下牌桌，才是最重要的事情。我相信：终有一天，我也会变成有钱人。</p>
+
+<h2 id="四复盘与计划">四、复盘与计划</h2>
+
+<h3 id="1月复盘与2月计划">1月复盘与2月计划</h3>
+<p><img src="/images/202501-OKR.png" alt="img.png" /></p>
+
+<ul>
+  <li><strong>健康（完成度70%）：</strong>春节假期，生活作息和节奏发生变化，减肥计划被搁浅了，睡眠也不是很好，要赶紧调整过来。</li>
+  <li><strong>成长（完成度90%）：</strong>多邻国学习英语开启了英语学习的新的篇章，超预期了。播客应该听的时长应该也挺多的，短视频的制作也有一些尝试，不过还不太够，需要更加努力。</li>
+  <li><strong>理财（完成度80%）：</strong>《段永平投资问答录》没有阅读，不过在喜马拉雅听完了，形式不重要。得益于大盘上涨，这个月的投资收益还行，虽然卖飞了几只股票，但是也锁定了利润。</li>
+  <li><strong>产品（完成度70%）：</strong> 搭建了个人的博客，也有了自己的公众号，流量很惨淡。探索了通过工作流将音频播客内容自动通过GPT转换发表的公众号，近期投入偏少，下一阶段要从长远考虑，坚持做对的事情，关注个人成长，眼光放长远，不要在意流量。</li>
+</ul>
+
+<h2 id="五展望无限可能">五、展望：无限可能</h2>
+
+<p>去年年底，我比较着急，急于改变现状，急于找到新的可能性。但是今年冷静下来，好像一切没那么急切，或者不应该那么急切，虽然我工作上的不确定性更大了。</p>
+
+<p>对于未来，我们应该眼光放长远，给未来的自己多一些耐心，给成长多一些耐心，坚持做对的事情，不急功近利，不贪功冒进，才更容易坚持，也更容易成功。</p>
+
+<p>好好学好英语，探索自媒体，努力成长，至于未来是从事自媒体、或是做独立开发，或是找个远程的工作，或是去外企，甚至是打份临时工，都好像没那么糟。</p>
+
+<p>接纳当下的自己，努力去成长、去旅行，去改变，去遇见未来更好的自己，拥抱无限的可能。</p>]]></content><author><name>DempeZheng</name></author><category term="月刊" /><summary type="html"><![CDATA[总结]]></summary></entry><entry><title type="html">成为“懂商业的技术人”，未来顶级人群的标配</title><link href="http://localhost:4000/2025/01/11/Embracing-the-AI/" rel="alternate" type="text/html" title="成为“懂商业的技术人”，未来顶级人群的标配" /><published>2025-01-11T00:00:00+08:00</published><updated>2025-01-11T00:00:00+08:00</updated><id>http://localhost:4000/2025/01/11/Embracing-the-AI</id><content type="html" xml:base="http://localhost:4000/2025/01/11/Embracing-the-AI/"><![CDATA[<h2 id="记录一次和gpt的对话">记录一次和GPT的对话</h2>
 
 <h3 id="-问题promptai时代下的程序员35岁危机">💡 问题（prompt）：AI时代下的程序员35岁危机</h3>
 
@@ -275,14 +428,28 @@
   <li>
     <p><strong>技能差异逐渐消失，认知差异正在拉开距离</strong>。未来，<strong>提出好问题并解决问题</strong>，比单纯掌握技能更有价值。</p>
   </li>
-  <li>AI不是威胁，而是<strong>杠杆</strong>。<strong>拥抱AI，用它补齐短板、放大长板</strong>，构建自己的能力闭环，实现更大的商业价值。</li>
-  <li>未来的顶级人群，必是<strong>“懂技术的商业人”</strong>，或<strong>“懂商业的技术人”</strong>。<strong>跨界才是王道</strong>。</li>
-  <li><strong>打破“技术=全部”的思维局限</strong>，站在技术与商业的交汇点，重新定义自己的价值。</li>
-  <li><strong>个人品牌就是产品</strong>。打造<strong>连接输入与输出的闭环系统</strong>，不断迭代自己，最终实现价值最大化。</li>
-  <li>在AI时代，<strong>最大的不确定性不是技术，而是你能否找到属于自己的“复利点”</strong>。</li>
-  <li>不只是“掌握AI”，而是<strong>用AI重新设计你的人生杠杆</strong>。</li>
-  <li><strong>未来不是比拼资源，而是比拼认知</strong>。只有<strong>持续自我进化</strong>，才能穿越变革的浪潮。</li>
-</ul>]]></content><author><name>DempeZheng</name></author><category term="成长" /><summary type="html"><![CDATA[你作为国内顶级认知人群的一员，并且拥有将认知变现的实践经验，请帮我提供一些实际可操作的建议和具体的计划，帮助我应对AI时代下，程序员的35岁内卷危机]]></summary></entry><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2024/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2024-01-03T00:00:00+08:00</published><updated>2024-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2024/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
+  <li>
+    <p>AI不是威胁，而是<strong>杠杆</strong>。<strong>拥抱AI，用它补齐短板、放大长板</strong>，构建自己的能力闭环，实现更大的商业价值。</p>
+  </li>
+  <li>
+    <p>未来的顶级人群，必是<strong>“懂技术的商业人”</strong>，或<strong>“懂商业的技术人”</strong>。<strong>跨界才是王道</strong>。</p>
+  </li>
+  <li>
+    <p><strong>打破“技术=全部”的思维局限</strong>，站在技术与商业的交汇点，重新定义自己的价值。</p>
+  </li>
+  <li>
+    <p><strong>个人品牌就是产品</strong>。打造<strong>连接输入与输出的闭环系统</strong>，不断迭代自己，最终实现价值最大化。</p>
+  </li>
+  <li>
+    <p>在AI时代，<strong>最大的不确定性不是技术，而是你能否找到属于自己的“复利点”</strong>。</p>
+  </li>
+  <li>
+    <p>不只是“掌握AI”，而是<strong>用AI重新设计你的人生杠杆</strong>。</p>
+  </li>
+  <li>
+    <p><strong>未来不是比拼资源，而是比拼认知</strong>。只有<strong>持续自我进化</strong>，才能穿越变革的浪潮。</p>
+  </li>
+</ul>]]></content><author><name>DempeZheng</name></author><category term="成长" /><summary type="html"><![CDATA[你作为国内顶级认知人群的一员，并且拥有将认知变现的实践经验，请帮我提供一些实际可操作的建议和具体的计划，帮助我应对AI时代下，程序员的35岁内卷危机]]></summary></entry><entry><title type="html">2024年度总结:允许发生，无限可能</title><link href="http://localhost:4000/2025/01/03/Annual-Summary/" rel="alternate" type="text/html" title="2024年度总结:允许发生，无限可能" /><published>2025-01-03T00:00:00+08:00</published><updated>2025-01-03T00:00:00+08:00</updated><id>http://localhost:4000/2025/01/03/Annual-Summary</id><content type="html" xml:base="http://localhost:4000/2025/01/03/Annual-Summary/"><![CDATA[<h3 id="序言">序言</h3>
 
 <p>2024年是我的本命年，虽然有一些小的曲折，但总体平稳度过。在经济下行的周期中，平稳本身就是一种幸福。今年，我也开始着手构建自己的人生框架，深信只要持续迭代，必定能穿越周期。</p>
 
@@ -549,7 +716,7 @@
 <!-- JavaScript 放在底部 -->
 <script src="/assets/js/lightbox.js"></script>
 
-<script src="https://unpkg.com/heic2any/dist/heic2any.min.js"></script>]]></content><author><name>DempeZheng</name></author><category term="年度总结" /><category term="月刊" /><summary type="html"><![CDATA[2024年，对于一位大龄大厂程序员来说，是充满挑战与成长的一年。本文总结了这一年在生活、投资、健康、成长等方面的深刻思考与规划，探讨了如何在压力中寻找内心的平衡，如何应对工作中的不确定性和压力，如何在经济下行周期中实现自己的突破。文章还分享了对未来一年的愿景，以及如何通过持续学习和自我迭代来跨越职业和生活中的周期性挑战。]]></summary></entry><entry><title type="html">00：开篇：越过淡季，森林和电</title><link href="http://localhost:4000/2023/12/30/00-Monthly-Journal/" rel="alternate" type="text/html" title="00：开篇：越过淡季，森林和电" /><published>2023-12-30T00:00:00+08:00</published><updated>2023-12-30T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/30/00-Monthly-Journal</id><content type="html" xml:base="http://localhost:4000/2023/12/30/00-Monthly-Journal/"><![CDATA[<blockquote>
+<script src="https://unpkg.com/heic2any/dist/heic2any.min.js"></script>]]></content><author><name>DempeZheng</name></author><category term="年度总结" /><category term="月刊" /><summary type="html"><![CDATA[2024年，对于一位大龄大厂程序员来说，是充满挑战与成长的一年。本文总结了这一年在生活、投资、健康、成长等方面的深刻思考与规划，探讨了如何在压力中寻找内心的平衡，如何应对工作中的不确定性和压力，如何在经济下行周期中实现自己的突破。文章还分享了对未来一年的愿景，以及如何通过持续学习和自我迭代来跨越职业和生活中的周期性挑战。]]></summary></entry><entry><title type="html">00：开篇：越过淡季，森林和电</title><link href="http://localhost:4000/2024/12/30/00-Monthly-Journal/" rel="alternate" type="text/html" title="00：开篇：越过淡季，森林和电" /><published>2024-12-30T00:00:00+08:00</published><updated>2024-12-30T00:00:00+08:00</updated><id>http://localhost:4000/2024/12/30/00-Monthly-Journal</id><content type="html" xml:base="http://localhost:4000/2024/12/30/00-Monthly-Journal/"><![CDATA[<blockquote>
   <p><em>在愿望的最后一个季节，解散清晨还有黄昏 ——万青 · 《揪心的玩笑与漫长的白日梦》</em></p>
 </blockquote>
 
@@ -680,7 +847,7 @@
 
 <p>《森林与电》便是这微光的出口。我在自然与数字之间寻找平衡——既不迷失于信息洪流，也不放弃内心的独立。</p>
 
-<p>愿这次出发成为习惯，愿我在复杂的世界中保持自我，在困境中依然怀抱期待与努力。</p>]]></content><author><name>DempeZheng</name></author><category term="月刊" /><summary type="html"><![CDATA[总结]]></summary></entry><entry><title type="html">2023，步履不停，穿越周期</title><link href="http://localhost:4000/2023/01/10/Endless-Steps/" rel="alternate" type="text/html" title="2023，步履不停，穿越周期" /><published>2023-01-10T00:00:00+08:00</published><updated>2023-01-10T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/10/Endless-Steps</id><content type="html" xml:base="http://localhost:4000/2023/01/10/Endless-Steps/"><![CDATA[<h1 id="开篇回顾">开篇：回顾</h1>
+<p>愿这次出发成为习惯，愿我在复杂的世界中保持自我，在困境中依然怀抱期待与努力。</p>]]></content><author><name>DempeZheng</name></author><category term="月刊" /><summary type="html"><![CDATA[总结]]></summary></entry><entry><title type="html">2023，步履不停，穿越周期</title><link href="http://localhost:4000/2024/01/10/Endless-Steps/" rel="alternate" type="text/html" title="2023，步履不停，穿越周期" /><published>2024-01-10T00:00:00+08:00</published><updated>2024-01-10T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/10/Endless-Steps</id><content type="html" xml:base="http://localhost:4000/2024/01/10/Endless-Steps/"><![CDATA[<h1 id="开篇回顾">开篇：回顾</h1>
 
 <p>忽然，2023年过去了。回望这一年，能被记住的事情很少，也越来越能理解杨德昌电影《一一》里面，敏敏为什么突然就哭了。</p>
 
@@ -852,7 +1019,159 @@
   <li class="task-list-item">
     <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />办护照，去泰国看看</p>
   </li>
-</ul>]]></content><author><name>DempeZheng</name></author><category term="年度总结" /><summary type="html"><![CDATA[年度总结]]></summary></entry><entry><title type="html">关于磁盘IO的那些事</title><link href="http://localhost:4000/2022/03/03/Disk-IO-subsystem/" rel="alternate" type="text/html" title="关于磁盘IO的那些事" /><published>2022-03-03T00:00:00+08:00</published><updated>2022-03-03T00:00:00+08:00</updated><id>http://localhost:4000/2022/03/03/Disk-IO-subsystem</id><content type="html" xml:base="http://localhost:4000/2022/03/03/Disk-IO-subsystem/"><![CDATA[<h2 id="一disk-io-subsystem概览">一、Disk I/O subsystem概览</h2>
+</ul>]]></content><author><name>DempeZheng</name></author><category term="年度总结" /><summary type="html"><![CDATA[年度总结]]></summary></entry><entry><title type="html">TCP/IP协议</title><link href="http://localhost:4000/2022/03/03/TCP-IP/" rel="alternate" type="text/html" title="TCP/IP协议" /><published>2022-03-03T00:00:00+08:00</published><updated>2022-03-03T00:00:00+08:00</updated><id>http://localhost:4000/2022/03/03/TCP-IP</id><content type="html" xml:base="http://localhost:4000/2022/03/03/TCP-IP/"><![CDATA[<h2 id="一tcpip模型">一、TCP/IP模型</h2>
+
+<p><img src="https://arch-long.cn/assets/tcp_ip.png" alt="有帮助的截图" /></p>
+
+<ul>
+  <li>
+    <p>应用层Application：HTTP，HTTPs，FTP，DNS…</p>
+  </li>
+  <li>
+    <p>传输层Transport：TCP，UDP</p>
+  </li>
+  <li>
+    <p>网络层：Internet：IPv4，IPv6</p>
+  </li>
+  <li>
+    <p>网络访问层Network Access：以太网络、Wi-Fi</p>
+  </li>
+</ul>
+
+<p><img src="https://docs.oracle.com/cd/E19683-01/806-4075/images/ipov.fig88.epsi.gif" alt="Diagram shows how a packet travels through the TCP/IP stack from the sending host to the receiving host." /></p>
+
+<h2 id="二tcp">二、TCP</h2>
+
+<blockquote>
+  <p>TCP是一种面向连接的、可靠的、基于字节流的传输层通信协议，由IETF的RFC 793定义</p>
+</blockquote>
+
+<p><img src="https://nmap.org/book/images/hdr/MJB-TCP-Header-800x564.png" alt="TCP header" /></p>
+
+<h2 id="三linux-tcp的实现">三、Linux TCP的实现</h2>
+
+<h3 id="接收数据">接收数据</h3>
+
+<p><img src="https://dreamgoing.github.io/image/TCP-ring-buffer.png" alt="" /></p>
+
+<ul>
+  <li>首先linux中用sk_buff数据结构描述packet</li>
+  <li>NIC( <strong>network interface cards</strong>) 即网卡检测到有packet到达，从Kernel Memory分配sk_buff数据结构，调用DMA(<strong>Direct memory access</strong>) Engine（注：DMA允许特定硬件直接操作主存。）将包放到sk_buff里面。NIC检测packet到达和packet的发送，不是触发，都是通过poll轮询的方式完成</li>
+  <li>Ring Buffer将数据包放置到内核内存区，Ring Buffer的大小固定，不包含实际的数据包，仅包含了指向sk_buff的描述符。当Ring Buffer满时，新来的数据包会被丢弃。</li>
+  <li>一旦数据包被成功接收，NIC发起中断，内核的中断处理程序会将数据包传递给IP层，经过IP层的处理，数据包会被放入队列等待TCP层处理。每个数据包经过TCP层的一系列复杂步骤，更新TCP 状态机等等。</li>
+  <li>最终到达recv Buffer。TCP层返回ACK确认。用户空间则调用系统调用read(), 读取相应的报文内容。</li>
+  <li>recv Buffer的大小可以通过修改<code class="language-plaintext highlighter-rouge">/proc/sys/net/ipv4/tcp_rmem</code>来修改，<code class="language-plaintext highlighter-rouge">cat /proc/sys/net/ipv4/tcp_rmem</code>返回三个值，依次为最小，默认，最大</li>
+</ul>
+
+<h3 id="发送数据">发送数据</h3>
+
+<p><img src="http://upload-images.jianshu.io/upload_images/1828490-072a6a7aa5cb2c35.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image" /></p>
+
+<p>TCP发送报文和接收报文路径相反，数据包的发送从上至下也经过了三层：用户态空间，系统内核空间，网卡驱动。</p>
+
+<ul>
+  <li>应用先将数据写入TCP send Buffer。</li>
+  <li>TCP层将send Buffer中的数据构建成TCP 数据包转给IP层</li>
+  <li>IP层会将TCP数据包进行处理，并放入QDist（queueing discipline）队列。数据包放入QDist之后，指向数据包的描述符sk_buff被放入Ring Buffer，随后网卡驱动调用DMA Engine将数据包发送到网络链路上。</li>
+</ul>
+
+<h2 id="四网络参数调优">四、网络参数调优</h2>
+
+<ul>
+  <li>
+    <p>backlog</p>
+
+    <ul>
+      <li>
+        <p>syn queue：tcp_max_syn_backlog</p>
+      </li>
+      <li>
+        <p>accept queue</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="https://takefive.cn/wp-content/uploads/2021/05/image-16.png" alt="" /></p>
+
+<ul>
+  <li>somaxconn</li>
+</ul>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sysctl <span class="nt">-w</span> net.core.somaxconn<span class="o">=</span>32768
+sysctl <span class="nt">-w</span> net.ipv4.tcp_max_syn_backlog<span class="o">=</span>16384
+sysctl <span class="nt">-w</span> net.core.netdev_max_backlog<span class="o">=</span>16384
+</code></pre></div></div>
+
+<ul>
+  <li>
+    <p>tcp_syncookies</p>
+  </li>
+  <li>
+    <p>tcp_mem</p>
+  </li>
+  <li>
+    <p>tcp_rmem</p>
+  </li>
+  <li>
+    <p>tcp_wmem</p>
+  </li>
+</ul>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sysctl <span class="nt">-w</span> net.core.rmem_default<span class="o">=</span>262144
+sysctl <span class="nt">-w</span> net.core.wmem_default<span class="o">=</span>262144
+sysctl <span class="nt">-w</span> net.core.rmem_max<span class="o">=</span>16777216
+sysctl <span class="nt">-w</span> net.core.wmem_max<span class="o">=</span>16777216
+sysctl <span class="nt">-w</span> net.core.optmem_max<span class="o">=</span>16777216
+
+<span class="c">#sysctl -w net.ipv4.tcp_mem='16777216 16777216 16777216'</span>
+sysctl <span class="nt">-w</span> net.ipv4.tcp_rmem<span class="o">=</span><span class="s1">'1024 4096 16777216'</span>
+sysctl <span class="nt">-w</span> net.ipv4.tcp_wmem<span class="o">=</span><span class="s1">'1024 4096 16777216'</span>
+</code></pre></div></div>
+
+<ul>
+  <li>fs_nr_open</li>
+</ul>
+
+<h2 id="六faq">六、FAQ</h2>
+
+<ul>
+  <li>
+    <p>backlog、半连接队列、全连接队列是什么？</p>
+  </li>
+  <li>
+    <p>TCP根据什么定义一个连接</p>
+  </li>
+  <li>
+    <p>TCP怎么保证可靠</p>
+  </li>
+  <li>
+    <p>TCP怎么解决乱序问题</p>
+  </li>
+  <li>
+    <p>TCP拥塞控制</p>
+  </li>
+  <li>
+    <p>Socket缓冲区满了会怎样</p>
+  </li>
+  <li>
+    <p>TCP缓冲区和滑动窗口之间的联系</p>
+  </li>
+</ul>
+
+<h2 id="参考文档">参考文档</h2>
+
+<p>https://coolshell.cn/articles/11609.html</p>
+
+<p>https://jishuin.proginn.com/p/763bfbd6646f</p>
+
+<p><a href="https://takefive.cn/?p=678">内核网络参数调优的一些整理 – 情笺思墨犹香</a></p>
+
+<p><a href="http://blog.sina.com.cn/s/blog_e59371cc0102vg4n.html">Linux TCP队列相关参数的总结_阿里云基础设施_新浪博客</a></p>
+
+<p>https://sn0rt.github.io/media/paper/TCPlinux.pdf</p>
+
+<p><a href="https://ape-ai.com/viewer.html?file=/books/tcp/Linux%20TCP%20IP%20%E5%8D%8F%E8%AE%AE%E6%A0%88%E5%88%86%E6%9E%90.pdf">AI技术编程</a></p>]]></content><author><name>DempeZheng</name></author><category term="技术" /><summary type="html"><![CDATA[some word here]]></summary></entry><entry><title type="html">关于磁盘IO的那些事</title><link href="http://localhost:4000/2022/03/03/Disk-IO-subsystem/" rel="alternate" type="text/html" title="关于磁盘IO的那些事" /><published>2022-03-03T00:00:00+08:00</published><updated>2022-03-03T00:00:00+08:00</updated><id>http://localhost:4000/2022/03/03/Disk-IO-subsystem</id><content type="html" xml:base="http://localhost:4000/2022/03/03/Disk-IO-subsystem/"><![CDATA[<h2 id="一disk-io-subsystem概览">一、Disk I/O subsystem概览</h2>
 
 <p><img src="https://www.thomas-krenn.com/de/wikiDE/images/e/e0/Linux-storage-stack-diagram_v4.10.png" alt="" /></p>
 
@@ -1305,159 +1624,7 @@
 
 <p><a href="https://www.i4k.xyz/article/universsky2015/100528640"># 内存映射文件 mmap 原理深度剖析_禅与计算机程序设计艺术-程序员信息网 - 程序员信息网</a></p>
 
-<p><a href="http://hushi55.github.io/2015/10/22/linux-network-stack"># linux network stack</a></p>]]></content><author><name>DempeZheng</name></author><category term="技术" /><summary type="html"><![CDATA[some word here]]></summary></entry><entry><title type="html">TCP/IP协议</title><link href="http://localhost:4000/2022/03/03/TCP-IP/" rel="alternate" type="text/html" title="TCP/IP协议" /><published>2022-03-03T00:00:00+08:00</published><updated>2022-03-03T00:00:00+08:00</updated><id>http://localhost:4000/2022/03/03/TCP-IP</id><content type="html" xml:base="http://localhost:4000/2022/03/03/TCP-IP/"><![CDATA[<h2 id="一tcpip模型">一、TCP/IP模型</h2>
-
-<p><img src="https://arch-long.cn/assets/tcp_ip.png" alt="有帮助的截图" /></p>
-
-<ul>
-  <li>
-    <p>应用层Application：HTTP，HTTPs，FTP，DNS…</p>
-  </li>
-  <li>
-    <p>传输层Transport：TCP，UDP</p>
-  </li>
-  <li>
-    <p>网络层：Internet：IPv4，IPv6</p>
-  </li>
-  <li>
-    <p>网络访问层Network Access：以太网络、Wi-Fi</p>
-  </li>
-</ul>
-
-<p><img src="https://docs.oracle.com/cd/E19683-01/806-4075/images/ipov.fig88.epsi.gif" alt="Diagram shows how a packet travels through the TCP/IP stack from the sending host to the receiving host." /></p>
-
-<h2 id="二tcp">二、TCP</h2>
-
-<blockquote>
-  <p>TCP是一种面向连接的、可靠的、基于字节流的传输层通信协议，由IETF的RFC 793定义</p>
-</blockquote>
-
-<p><img src="https://nmap.org/book/images/hdr/MJB-TCP-Header-800x564.png" alt="TCP header" /></p>
-
-<h2 id="三linux-tcp的实现">三、Linux TCP的实现</h2>
-
-<h3 id="接收数据">接收数据</h3>
-
-<p><img src="https://dreamgoing.github.io/image/TCP-ring-buffer.png" alt="" /></p>
-
-<ul>
-  <li>首先linux中用sk_buff数据结构描述packet</li>
-  <li>NIC( <strong>network interface cards</strong>) 即网卡检测到有packet到达，从Kernel Memory分配sk_buff数据结构，调用DMA(<strong>Direct memory access</strong>) Engine（注：DMA允许特定硬件直接操作主存。）将包放到sk_buff里面。NIC检测packet到达和packet的发送，不是触发，都是通过poll轮询的方式完成</li>
-  <li>Ring Buffer将数据包放置到内核内存区，Ring Buffer的大小固定，不包含实际的数据包，仅包含了指向sk_buff的描述符。当Ring Buffer满时，新来的数据包会被丢弃。</li>
-  <li>一旦数据包被成功接收，NIC发起中断，内核的中断处理程序会将数据包传递给IP层，经过IP层的处理，数据包会被放入队列等待TCP层处理。每个数据包经过TCP层的一系列复杂步骤，更新TCP 状态机等等。</li>
-  <li>最终到达recv Buffer。TCP层返回ACK确认。用户空间则调用系统调用read(), 读取相应的报文内容。</li>
-  <li>recv Buffer的大小可以通过修改<code class="language-plaintext highlighter-rouge">/proc/sys/net/ipv4/tcp_rmem</code>来修改，<code class="language-plaintext highlighter-rouge">cat /proc/sys/net/ipv4/tcp_rmem</code>返回三个值，依次为最小，默认，最大</li>
-</ul>
-
-<h3 id="发送数据">发送数据</h3>
-
-<p><img src="http://upload-images.jianshu.io/upload_images/1828490-072a6a7aa5cb2c35.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image" /></p>
-
-<p>TCP发送报文和接收报文路径相反，数据包的发送从上至下也经过了三层：用户态空间，系统内核空间，网卡驱动。</p>
-
-<ul>
-  <li>应用先将数据写入TCP send Buffer。</li>
-  <li>TCP层将send Buffer中的数据构建成TCP 数据包转给IP层</li>
-  <li>IP层会将TCP数据包进行处理，并放入QDist（queueing discipline）队列。数据包放入QDist之后，指向数据包的描述符sk_buff被放入Ring Buffer，随后网卡驱动调用DMA Engine将数据包发送到网络链路上。</li>
-</ul>
-
-<h2 id="四网络参数调优">四、网络参数调优</h2>
-
-<ul>
-  <li>
-    <p>backlog</p>
-
-    <ul>
-      <li>
-        <p>syn queue：tcp_max_syn_backlog</p>
-      </li>
-      <li>
-        <p>accept queue</p>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<p><img src="https://takefive.cn/wp-content/uploads/2021/05/image-16.png" alt="" /></p>
-
-<ul>
-  <li>somaxconn</li>
-</ul>
-
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sysctl <span class="nt">-w</span> net.core.somaxconn<span class="o">=</span>32768
-sysctl <span class="nt">-w</span> net.ipv4.tcp_max_syn_backlog<span class="o">=</span>16384
-sysctl <span class="nt">-w</span> net.core.netdev_max_backlog<span class="o">=</span>16384
-</code></pre></div></div>
-
-<ul>
-  <li>
-    <p>tcp_syncookies</p>
-  </li>
-  <li>
-    <p>tcp_mem</p>
-  </li>
-  <li>
-    <p>tcp_rmem</p>
-  </li>
-  <li>
-    <p>tcp_wmem</p>
-  </li>
-</ul>
-
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sysctl <span class="nt">-w</span> net.core.rmem_default<span class="o">=</span>262144
-sysctl <span class="nt">-w</span> net.core.wmem_default<span class="o">=</span>262144
-sysctl <span class="nt">-w</span> net.core.rmem_max<span class="o">=</span>16777216
-sysctl <span class="nt">-w</span> net.core.wmem_max<span class="o">=</span>16777216
-sysctl <span class="nt">-w</span> net.core.optmem_max<span class="o">=</span>16777216
-
-<span class="c">#sysctl -w net.ipv4.tcp_mem='16777216 16777216 16777216'</span>
-sysctl <span class="nt">-w</span> net.ipv4.tcp_rmem<span class="o">=</span><span class="s1">'1024 4096 16777216'</span>
-sysctl <span class="nt">-w</span> net.ipv4.tcp_wmem<span class="o">=</span><span class="s1">'1024 4096 16777216'</span>
-</code></pre></div></div>
-
-<ul>
-  <li>fs_nr_open</li>
-</ul>
-
-<h2 id="六faq">六、FAQ</h2>
-
-<ul>
-  <li>
-    <p>backlog、半连接队列、全连接队列是什么？</p>
-  </li>
-  <li>
-    <p>TCP根据什么定义一个连接</p>
-  </li>
-  <li>
-    <p>TCP怎么保证可靠</p>
-  </li>
-  <li>
-    <p>TCP怎么解决乱序问题</p>
-  </li>
-  <li>
-    <p>TCP拥塞控制</p>
-  </li>
-  <li>
-    <p>Socket缓冲区满了会怎样</p>
-  </li>
-  <li>
-    <p>TCP缓冲区和滑动窗口之间的联系</p>
-  </li>
-</ul>
-
-<h2 id="参考文档">参考文档</h2>
-
-<p>https://coolshell.cn/articles/11609.html</p>
-
-<p>https://jishuin.proginn.com/p/763bfbd6646f</p>
-
-<p><a href="https://takefive.cn/?p=678">内核网络参数调优的一些整理 – 情笺思墨犹香</a></p>
-
-<p><a href="http://blog.sina.com.cn/s/blog_e59371cc0102vg4n.html">Linux TCP队列相关参数的总结_阿里云基础设施_新浪博客</a></p>
-
-<p>https://sn0rt.github.io/media/paper/TCPlinux.pdf</p>
-
-<p><a href="https://ape-ai.com/viewer.html?file=/books/tcp/Linux%20TCP%20IP%20%E5%8D%8F%E8%AE%AE%E6%A0%88%E5%88%86%E6%9E%90.pdf">AI技术编程</a></p>]]></content><author><name>DempeZheng</name></author><category term="技术" /><summary type="html"><![CDATA[some word here]]></summary></entry><entry><title type="html">Network I/O 初探</title><link href="http://localhost:4000/2022/02/05/Network-subSystem/" rel="alternate" type="text/html" title="Network I/O 初探" /><published>2022-02-05T00:00:00+08:00</published><updated>2022-02-05T00:00:00+08:00</updated><id>http://localhost:4000/2022/02/05/Network-subSystem</id><content type="html" xml:base="http://localhost:4000/2022/02/05/Network-subSystem/"><![CDATA[<h2 id="一概览">一、概览</h2>
+<p><a href="http://hushi55.github.io/2015/10/22/linux-network-stack"># linux network stack</a></p>]]></content><author><name>DempeZheng</name></author><category term="技术" /><summary type="html"><![CDATA[some word here]]></summary></entry><entry><title type="html">Network I/O 初探</title><link href="http://localhost:4000/2022/02/05/Network-subSystem/" rel="alternate" type="text/html" title="Network I/O 初探" /><published>2022-02-05T00:00:00+08:00</published><updated>2022-02-05T00:00:00+08:00</updated><id>http://localhost:4000/2022/02/05/Network-subSystem</id><content type="html" xml:base="http://localhost:4000/2022/02/05/Network-subSystem/"><![CDATA[<h2 id="一概览">一、概览</h2>
 
 <p><img src="https://i.stack.imgur.com/kiP8n.png" alt="" /></p>
 
@@ -2004,429 +2171,4 @@ sysctl <span class="nt">-w</span> net.ipv4.tcp_wmem<span class="o">=</span><span
 
 <h2 id="参考文档">参考文档</h2>
 
-<p><a href="https://mp.weixin.qq.com/s/7C3m8_mk-ERAykbNUFvhVA"># 阿里资深Leader：组建技术团队的一些思考</a></p>]]></content><author><name>DempeZheng</name></author><category term="成长" /><summary type="html"><![CDATA[总结]]></summary></entry><entry><title type="html">当我们聊消息队列，我们在聊什么</title><link href="http://localhost:4000/2022/01/01/Talk-About-Message-Queue/" rel="alternate" type="text/html" title="当我们聊消息队列，我们在聊什么" /><published>2022-01-01T00:00:00+08:00</published><updated>2022-01-01T00:00:00+08:00</updated><id>http://localhost:4000/2022/01/01/Talk-About-Message-Queue</id><content type="html" xml:base="http://localhost:4000/2022/01/01/Talk-About-Message-Queue/"><![CDATA[<h1 id="当我们聊消息队列我们在聊什么">当我们聊消息队列，我们在聊什么</h1>
-
-<h2 id="一what-is-messaging">一、What is messaging</h2>
-
-<h3 id="request-response模式">request-response模式</h3>
-
-<p>本地系统（client）与通过远程系统（server）暴露的通信终端进行同步通讯。在形式上无论是远程系统调用，还是web service调用，或者是远程资源的消费，这些在本质上都是一个模型，只是表现形式不同：本地系统向远程系统发送消息，本地系统同步等待远程系统返回应答，系统之间通过点对点的方式通讯。</p>
-
-<p><img src="https://static.packt-cdn.com/products/9781783983209/graphics/3209OS_01_01.jpg" alt="img" /></p>
-
-<h3 id="one-way-style模型">one way style模型</h3>
-
-<p>在one way style方式中，系统之间通过传递消息的方式异步交互，所谓异步也就是系统A在发送完消息之后不需要同步等待系统B的应答。</p>
-
-<p><img src="https://static.packt-cdn.com/products/9781783983209/graphics/3209OS_01_02.jpg" alt="img" /></p>
-
-<h3 id="loosely-coupled模型">loosely coupled模型</h3>
-
-<p>在one way style方式中，系统之间通过传递消息的方式异步交互，所谓异步也就是系统A在发送完消息之后不需要同步等待系统B的应答。</p>
-
-<p><img src="https://static.packt-cdn.com/products/9781783983209/graphics/3209OS_01_10.jpg" alt="img" /></p>
-
-<h3 id="消息传递模型">消息传递模型</h3>
-
-<p>在实时流式架构中，消息传递能够分为两类：队列（Queue）和流（Stream）。</p>
-
-<h4 id="队列queue模型">队列（Queue）模型</h4>
-
-<p>A <strong>*queue*</strong> is a simple FIFO mechanism allowing you to add items to the back of the queue or take from the front.</p>
-
-<ul>
-  <li>消息只能被消费一次</li>
-  <li>消息不能被回溯</li>
-  <li>通常和生产消费者模式一起</li>
-</ul>
-
-<h4 id="流式stream模型">流式（Stream）模型</h4>
-
-<p>A <strong>*stream*</strong> is not really a data structure as such (conceptually), but is a sequence of digitally encoded coherent signals (packets of data or data packets) used to transmit or receive information”. So basically a sequence of data.</p>
-
-<ul>
-  <li>Streams always have a source</li>
-  <li>stream processing</li>
-  <li>With Pub/Sub pattern</li>
-</ul>
-
-<blockquote>
-  <p>In stream processing, you apply complex operations on multiple input streams and multiple records (ie, messages) at the same time (like aggregations and joins).</p>
-</blockquote>
-
-<h4 id="queue--stream">Queue &amp; Stream</h4>
-
-<p>当前的分布式消息中间件几乎很多都不单纯是消息队列，还提供流式处理的能力，例如kafka，不仅可以发布订阅stream，还可以存储记录，甚至可以做一些简单的streamprocessing。而Apache pulsar直接在消费模型上面，讲queue和stream统一起来都实现了。queue和stream虽然有一些不同，但是界限变得越来越模糊了。</p>
-
-<h2 id="二why-message-queue">二、Why message queue</h2>
-
-<p>消息队列的作用：</p>
-
-<ul>
-  <li>
-    <p>异步</p>
-  </li>
-  <li>
-    <p>解耦</p>
-  </li>
-  <li>
-    <p>削峰</p>
-  </li>
-</ul>
-
-<p>disadvantage：</p>
-
-<ul>
-  <li>
-    <p>maintain message queue</p>
-
-    <ul>
-      <li>
-        <p>Consume same message twice</p>
-      </li>
-      <li>
-        <p>Lose message</p>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>Inconsistency</p>
-  </li>
-  <li>
-    <p>Availability</p>
-  </li>
-</ul>
-
-<h2 id="三reliability">三、Reliability</h2>
-
-<ul>
-  <li>
-    <p>producer→Broker→Consumer 链路可靠</p>
-
-    <ul>
-      <li>
-        <p>producer：幂等重试</p>
-      </li>
-      <li>
-        <p>Broker：消息可靠存储</p>
-
-        <ul>
-          <li>
-            <p>消息持久化</p>
-          </li>
-          <li>
-            <p>多副本</p>
-          </li>
-          <li>
-            <p>故障转移</p>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <p>Consumer： Ack机制</p>
-
-        <ul>
-          <li>
-            <p>业务幂等</p>
-          </li>
-          <li>
-            <p>Ack机制</p>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="四-availabilty">四、 Availabilty</h2>
-
-<ul>
-  <li>
-    <p>Broker无状态</p>
-  </li>
-  <li>
-    <p>Message Store多副本</p>
-  </li>
-  <li>
-    <p>故障自动转移</p>
-  </li>
-</ul>
-
-<h2 id="五performance">五、Performance</h2>
-
-<ul>
-  <li>
-    <p>顺序写入</p>
-  </li>
-  <li>
-    <p>partition</p>
-  </li>
-  <li>
-    <p>批量</p>
-  </li>
-  <li>
-    <p>I/O 分离</p>
-  </li>
-  <li>
-    <p>cache</p>
-
-    <ul>
-      <li>
-        <p>broker cache</p>
-      </li>
-      <li>
-        <p>page cache</p>
-      </li>
-      <li>
-        <p>Log cache</p>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>zero copy</p>
-  </li>
-  <li>
-    <p>数据压缩</p>
-  </li>
-</ul>
-
-<p>良好设计的消息队列，系统的吞吐取决于网卡，如何设计出低延迟的消息系统也很关键；</p>
-
-<p><strong>Low latency：</strong></p>
-
-<ul>
-  <li>
-    <p>tailing read</p>
-
-    <ul>
-      <li>
-        <p>cache</p>
-      </li>
-      <li>
-        <p>并行读</p>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>write</p>
-
-    <ul>
-      <li>WAL</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="六how-message-queue-design">六、（How） Message queue Design</h2>
-
-<h3 id="message-queue">Message Queue</h3>
-
-<ul>
-  <li>
-    <p>Queue implements <em>load balancer</em> semantics. A single message will be received by exactly one consumer.</p>
-  </li>
-  <li>
-    <p>点对点（point-to-point）</p>
-  </li>
-</ul>
-
-<p><strong>disadvantage</strong>：</p>
-
-<ul>
-  <li>
-    <p>point-to-point（1→1），多个消费者需要多个message queue</p>
-  </li>
-  <li>
-    <p>下游增加消费者，需要上游添加message queue</p>
-  </li>
-</ul>
-
-<p><img src="/images/2022-01-05-17-45-34-image.png" alt="" /></p>
-
-<h3 id="topic">Topic</h3>
-
-<ul>
-  <li>
-    <p>Topic implements <em>publish and subscribe</em> semantics</p>
-  </li>
-  <li>
-    <p>publisher-subscriber model</p>
-  </li>
-  <li>
-    <p>publish-and-subcribe（1→many）</p>
-  </li>
-</ul>
-
-<h4 id="镜像queue">镜像queue</h4>
-
-<ul>
-  <li>不同的subscription使用不同的镜像queue，存储不同</li>
-</ul>
-
-<p><strong>disadvantage</strong>：</p>
-
-<ul>
-  <li>数据冗余，有一定存储和性能浪费</li>
-</ul>
-
-<p><img src="/images/2022-01-05-17-31-09-image.png" alt="" /></p>
-
-<h4 id="cursor">Cursor</h4>
-
-<ul>
-  <li>
-    <p>同一份数据存储</p>
-  </li>
-  <li>
-    <p>subscription维护各自的Cursor（消费游标）</p>
-  </li>
-</ul>
-
-<p><img src="/images/2022-01-05-17-31-25-image.png" alt="" /></p>
-
-<h3 id="partition-topic">Partition Topic</h3>
-
-<p>单个Topic存在的问题：</p>
-
-<ul>
-  <li>topic过大，broker &amp; store 存在瓶颈</li>
-</ul>
-
-<p>解决方案：</p>
-
-<ul>
-  <li>
-    <p>拆分成多个partition</p>
-  </li>
-  <li>
-    <p>partition是逻辑分片，对业务透明</p>
-  </li>
-</ul>
-
-<p><img src="/images/2022-01-05-17-31-42-image.png" alt="" /></p>
-
-<h2 id="计算和存储分离">计算和存储分离</h2>
-
-<ul>
-  <li>
-    <p>Broker状态</p>
-  </li>
-  <li>
-    <p>Topic Store水平扩展</p>
-  </li>
-</ul>
-
-<p>【注】多一层会额外引入性能损耗&amp;系统复杂性</p>
-
-<p><img src="/images/2022-01-05-17-31-56-image.png" alt="" /></p>
-
-<h3 id="topic-store--distribute-log">Topic Store ： Distribute Log</h3>
-
-<ol>
-  <li>
-    <p>Message queue可以看作是一组有序的数据流（Stream）；</p>
-  </li>
-  <li>
-    <p>日志是一种简单的抽象，只能追加，按时间有序的序列；</p>
-  </li>
-  <li>
-    <p>日志是持久化的数据流；</p>
-  </li>
-  <li>
-    <p>Topic Store核心是日志，分布式消息队列的底层存储是Distribute Log System；</p>
-  </li>
-</ol>
-
-<p><img src="/images/2022-01-05-17-32-12-image.png" alt="loading-ag-3482" /></p>
-
-<p><img src="/image-20211202164512736.png" alt="image20211202164512736" /></p>
-
-<h4 id="log-workloads-low-latencyhigh-throughput">Log workloads： low latency，High throughput</h4>
-
-<p>日志系统的核心负载可以归为三类：writes，tailing reads，catch-up reads</p>
-
-<p>Writes 和 tailing reads 在意的是延时 (latency)，因为它关系到一个消息能多快地从被写入到被读到。</p>
-
-<p>而 catch-up reads 在意的则是高吞吐量，因为它关系到是否能追赶到日志的尾部。</p>
-
-<p><img src="/images/2022-01-05-17-33-22-image.png" alt="" /></p>
-
-<ul>
-  <li>
-    <p>tailing reads： log cache &amp; broker cache &amp;page cache</p>
-
-    <ul>
-      <li>catch-up reads可能会造成cache污染</li>
-    </ul>
-  </li>
-  <li>
-    <p>writes： append only</p>
-
-    <ul>
-      <li>
-        <p>topic维度的顺序写</p>
-      </li>
-      <li>
-        <p>Write Ahead Log</p>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>catch-up reads</p>
-
-    <ul>
-      <li>避免污染cache</li>
-    </ul>
-  </li>
-</ul>
-
-<h4 id="工程投影分布式日志系统bookeeper">工程投影：分布式日志系统Bookeeper</h4>
-
-<p><img src="https://dolphin7.xyz/images/bk1.png" alt="bk1" /></p>
-
-<h3 id="高级功能">高级功能</h3>
-
-<ul>
-  <li>顺序保证
-    <ul>
-      <li>单个partition有序</li>
-    </ul>
-  </li>
-  <li>延迟队列</li>
-  <li>事务消息</li>
-  <li>跨地域复制</li>
-  <li>多租户
-    <ul>
-      <li>租户隔离</li>
-      <li>租户调整有挑战</li>
-    </ul>
-  </li>
-  <li>消息语义保证
-    <ul>
-      <li>at least once</li>
-      <li>at most once</li>
-      <li>extractly once</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="参考文档">参考文档：</h2>
-
-<p><a href="https://alexstocks.github.io/html/pulsar.html">pulsar笔记</a></p>
-
-<p><a href="https://mp.weixin.qq.com/s/CIpCLCxqpLoQVUKz6QeDJQ">理解Apache Pulsar工作原理</a></p>
-
-<p><a href="[translations/part1-what-is-a-log.md at master · oldratlee/translations · GitHub](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/part1-what-is-a-log.md)">日志是什么</a></p>
-
-<p><a href="https://mp.weixin.qq.com/s/0dkgA8swNPkpcY5H6CU62w">Twitter高性能分布式日志系统架构解析</a></p>
-
-<p><a href="https://www.infoq.cn/article/ikqw6fsidfcmqk2uqmwo">如何打造可以无限扩展的分布式消息队列?-InfoQ</a></p>
-
-<p><a href="[queue - Difference between stream processing and message processing - Stack Overflow](https://stackoverflow.com/questions/41744506/difference-between-stream-processing-and-message-processing)">difference-between-stream-processing-and-message-processing</a></p>
-
-<p><a href="https://www.packtpub.com/product/rabbitmq-essentials/9781783983209">What is messaging?</a></p>
-
-<p><a href="[Apache BookKeeper™ - DistributedLog](https://sijie.github.io/bookkeeper-staging-site/docs/4.6.1/api/distributedlog-api/)">Distribute Log</a></p>
-
-<p><a href="https://www.slidestalk.com/ApachePulsar/PulsarStreamNativeJia4336272">Apache Pulsar 从消息系统到流原生平台-Jia</a></p>
-
-<p><a href="https://www.bilibili.com/video/BV1Tf4y1s7T9/">System Design - Message Queue</a></p>]]></content><author><name>DempeZheng</name></author><category term="技术" /><summary type="html"><![CDATA[消息队列]]></summary></entry></feed>
+<p><a href="https://mp.weixin.qq.com/s/7C3m8_mk-ERAykbNUFvhVA"># 阿里资深Leader：组建技术团队的一些思考</a></p>]]></content><author><name>DempeZheng</name></author><category term="成长" /><summary type="html"><![CDATA[总结]]></summary></entry></feed>
