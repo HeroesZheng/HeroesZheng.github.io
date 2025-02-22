@@ -10,9 +10,9 @@ images_1:
     alt: "偶遇山间林雾"
   - src: /images/6631740199639_.pic.jpg
     alt: "大理油菜花"
-  - src: /images/6601740199638_.pic.jpg
-    alt: "玉龙雪山"
   - src: /images/6611740199639_.pic.jpg
+    alt: "玉龙雪山"
+  - src: /images/6601740199638_.pic.jpg
     alt: "返程和雪山"
 images_2:
   - src: /images/6511739762266_.pic.jpg
@@ -70,7 +70,7 @@ images_2:
 
 ## 四、复盘与计划
 
-### 1月复盘与2月计划
+### 1月复盘
 ![img.png](/images/202501-OKR.png)
 
 - **健康（完成度70%）：**春节假期，生活作息和节奏发生变化，减肥计划被搁浅了，睡眠也不是很好，要赶紧调整过来。
